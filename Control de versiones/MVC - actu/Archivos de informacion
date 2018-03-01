@@ -1,0 +1,14 @@
+Guardar imagenes:
+http://www.comunidadhosting.com/t/metodos-para-guardar-imagenes-en-phpmyadmin-utilizando-php.39058/
+
+
+TAmaño de textarea en hoja de estilo
+https://www.lawebdelprogramador.com/foros/HTML/1288504-HTML-textarea.html
+
+
+Queaseres:
+- Arreglar tipo de usuario "admin" o "user".
+- Añadir apartado para "admin" que solo acceda el y con capacidad de borrar cualquier anuncio y usuario.
+- Comprobador al guardar datos del anuncio. Funcion comprobante para vista_add_anuncio.php.
+- Arreglar "cookies" para login.
+- dbcontact sera la carpeta para alojar las imagenes de anuncio y usuario. Usar PK de cada uno para el nombre. Como hacer a la hora de guardar la imagen coger su nombre de la imagen.

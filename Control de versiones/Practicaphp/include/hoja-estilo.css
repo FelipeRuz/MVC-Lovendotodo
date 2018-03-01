@@ -1,0 +1,4 @@
+TITULO {font-family: Comic Sans MS;}
+SUBTITULO{ font-family: Trebuchet MS; font-size: 16; color: #151515;}
+CTEXTO{ font-family: Consolas; font-size: 12; color: #151515; }
+div fondobody { background: url(images/bg.jpg) no-repeat center center fixed; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
